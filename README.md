@@ -1,7 +1,7 @@
 # cci-student.github.io
 Template repository for a personal website.
 
-Fork this repository and rename it to yourusername.github.io, then clone it to your machine. 
+Create a new repository using this template and rename it to [yourusername].github.io, then clone it to your machine. 
 
 Fill in information about yourself in index.html, change the links to your social media accounts in menu.html and change the picture and CV files to you profile picture and your pdf CV. 
 
